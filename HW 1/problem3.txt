@@ -1,0 +1,11 @@
+said /"\b[Ss]aid\b"/ 1961
+said that /"\b[Ss]aid that [A-Za-z0-9]*\b"/ 100
+said ([word]) ([word]) that /"\b([Ss]aid [A-Za-z0-9]* [A-Za-z0-9]* that)|([Ss]aid [A-Za-z0-9]* that)|([Ss]aid that)\b"/ 123
+said [question_word] /"\b[Ss]aid (what|who|when|where|how|why|which)\b"/ 9
+said what /"\b[Ss]aid what\b"/ 5
+said who /"\b[Ss]aid who\b"/ 0
+said when /"\b[Ss]aid when\b"/ 4
+said where /"\b[Ss]aid where\b"/ 0
+said how /"\b[Ss]aid how\b"/ 0
+said why /"\b[Ss]aid why\b"/ 0
+said which /"\b[Ss]aid which\b"/ 0

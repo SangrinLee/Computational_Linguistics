@@ -1,0 +1,27 @@
+PP <<# on << NP - 376
+PP <<# in << NP - 650
+PP <<# for << NP - 971
+PP <<# to << NP - 722
+
+
+PP <<# on << VP - 44
+PP <<# in << VP - 113
+PP <<# for << VP - 104
+PP <<# to << VP - 75
+
+
+@PP <<# in > @NP
+
+@PP <<# on > @NP - 199
+@PP <<# in > @NP - 662
+@PP <<# for > @NP - 400
+@PP <<# to > @NP - 158
+
+
+@PP <<# on > @VP - 247
+@PP <<# in > @VP - 744
+@PP <<# for > @VP - 315
+@PP <<# to > @VP - 546
+
+Q2.
+@NP <: @DT
